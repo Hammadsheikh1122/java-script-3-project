@@ -1,39 +1,35 @@
 //Task 1//
 let  age = 16;
-console.log(age)
 let month = 12;
-console.log(month)
 let week = 100;
-console.log(week)
-let price = 4 ;
-console.log(price)
+let price = 4;
 let year = 30;
+console.log(age)
+console.log(month)
+console.log(week)
+console.log(price)
 console.log(year)
 
-let task ="Task 2"
-console.log(task)
+//Task 2//
 //illegel variable//
+
 // let let = "illegal";
-// console.log(let)
-
 // const const = "illegel";
-// console.log(const)
-
 // var var = "illegel"
+// console.log(let)
+// console.log(const)
 // console.log(var)
 
 //legel variable//
-var name = "Hammad";
-console.log(name);
 
+let name = "Hammad";
 let fatherName = "Amin";
-console.log(fatherName);
+let days = 16;
+console.log(name);
+console.log(fathername);
+console.log(days);
 
-const days = 16;
-console.log(days)
-
-let task = "task3"
-console.log(task)
+//Task 3 //
 let a = 100;
 let b = 20;
 console.log(a+b); //Addition//
