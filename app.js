@@ -26,7 +26,7 @@ let name = "Hammad";
 let fatherName = "Amin";
 let days = 16;
 console.log(name);
-console.log(fathername);
+console.log(fatherName);
 console.log(days);
 
 //Task 3 //
